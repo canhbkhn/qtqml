@@ -5,7 +5,7 @@ Window {
     visible: true
     width: 700
     height: 250
-    title: qsTr("Hello World")
+    title: qsTr("System Information")
 
     color: "#B0E2FF"
 
